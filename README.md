@@ -1,15 +1,16 @@
 # Height Checker (Multi-Language Implementation)
 
-Program sederhana untuk menghitung berapa banyak siswa (atau angka dalam array) yang **tidak sesuai urutan tinggi seharusnya**.  
-Implementasi tersedia dalam tiga bahasa pemrograman: **Python**, **JavaScript (Node.js)**, dan **Java**.  
-User dapat memasukkan array langsung melalui **terminal**.
+## 🎯 Tujuan
+
+- Memberikan contoh implementasi lintas bahasa (Python, JavaScript, Java).
+- Memahami algoritma sederhana berbasis **perbandingan array vs hasil sorting**.
+- Referensi untuk latihan coding interview / ujian pemrograman.
 
 ---
 
 ## 📂 Struktur Repo
 
 ```
-
 height-checker/
 │── python/
 │   └── height\_checker.py
@@ -21,15 +22,7 @@ height-checker/
 │   └── HeightChecker.java
 │
 └── README.md
-
 ```
-
----
-
-## 🎯 Tujuan
-- Memberikan contoh implementasi lintas bahasa (Python, JavaScript, Java).
-- Memahami algoritma sederhana berbasis **perbandingan array vs hasil sorting**.
-- Referensi untuk latihan coding interview / ujian pemrograman.
 
 ---
 
