@@ -13,10 +13,10 @@
 ```
 height-checker/
 │── python/
-│   └── height\_checker.py
+│   └── height-checker.py
 │
 │── javascript/
-│   └── height\_checker.js
+│   └── height-checker.js
 │
 │── java/
 │   └── HeightChecker.java
@@ -36,7 +36,7 @@ height-checker/
 
 * Jalankan:
     ```bash
-    python height_checker.py
+    python height-checker.py
     ```
 
 * Masukkan input, misalnya:
@@ -56,7 +56,7 @@ height-checker/
 
 * Jalankan:
     ```bash
-    node height_checker.js
+    node height-checker.js
     ```
 
 * Masukkan input, misalnya:
